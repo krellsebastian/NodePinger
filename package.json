@@ -1,0 +1,19 @@
+{
+  "name": "nodepinger",
+  "version": "1.0.0",
+  "description": "Pings frequently out to a website",
+  "main": "nodepinger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krellsebastian/NodePinger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krellsebastian/NodePinger/issues"
+  },
+  "homepage": "https://github.com/krellsebastian/NodePinger#readme"
+}
